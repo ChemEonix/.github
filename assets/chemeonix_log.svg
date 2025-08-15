@@ -1,0 +1,36 @@
+<svg width="250" height="100" viewBox="0 0 250 100" xmlns="http://www.w3.org/2000/svg" font-family="Montserrat, sans-serif">
+  <!-- 
+    ChemEonix Logo
+    This SVG combines a hexagon (chemistry), angle brackets (coding), and a central spark (innovation).
+    It is designed to be scalable and can be used with or without the text.
+  -->
+  
+  <!-- Logo Mark -->
+  <g transform="translate(50, 50)">
+    <g stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+      <!-- Chemistry: Hexagon shape -->
+      <path d="M 0 -40 L 34.64 -20" stroke="#2D3748"/>
+      <path d="M 0 40 L 34.64 20" stroke="#2D3748"/>
+      
+      <!-- Coding: Angle brackets </> -->
+      <path d="M 34.64 -20 L 34.64 20" stroke="#4FD1C5"/>
+      <path d="M -34.64 20 L -34.64 -20" stroke="#4FD1C5"/>
+      
+      <!-- Chemistry: Hexagon shape -->
+      <path d="M -34.64 20 L 0 40" stroke="#2D3748"/>
+      <path d="M -34.64 -20 L 0 -40" stroke="#2D3748"/>
+    </g>
+    
+    <!-- Innovation: Central Spark -->
+    <g fill="#4FD1C5" stroke="#4FD1C5" stroke-width="2">
+      <path d="M 0 -12 L 3 -3 L 12 0 L 3 3 L 0 12 L -3 3 L -12 0 L -3 -3 Z" />
+    </g>
+  </g>
+  
+  <!-- Company Name Text -->
+  <text x="105" y="58" font-size="24" font-weight="bold" fill="#2D3748">
+    ChemEonix
+  </text>
+</svg>
+
+

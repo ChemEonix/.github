@@ -1,38 +1,53 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/ChemEonix/.github/main/assets/chemeonix_logo.svg" alt="ChemEonix Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/ChemEonix/.github/main/assets/chemeonix_logo.svg" alt="ChemEonix Logo" width="400"/>
 </div>
 
-<h1 align="center">ChemEonix, LLC</h1>
+<h1 align="center">ChemEonix</h1>
 
 <p align="center">
-<strong>From Correlation to Causality: Building the next generation of intelligent scientific software.</strong>
+  <strong>From Correlation to Causality — an independent R&D portfolio exploring intelligent scientific software.</strong>
 </p>
 
 <p align="center">
-<a href="https://chemeonix.com">Website</a> • <a href="mailto:hi@chemeonix.com">Contact Us</a>
+  <a href="https://chemeonix.com">Website</a> • <a href="mailto:hi@chemeonix.com">Contact</a>
 </p>
 
-Our Mission: Beyond Pattern Recognition
-At ChemEonix, we believe the next great leap in scientific discovery will not come from bigger data, but from deeper understanding. While modern machine learning has become a marvel of pattern recognition, it often identifies what happens without explaining why. This reliance on correlation is the ceiling of innovation we're currently hitting.
+---
 
-Our mission is to build systems that move beyond prediction to uncover the causal levers that drive outcomes. By integrating deep scientific domain knowledge with causal AI, knowledge graphs, and generative models, we create tools that reason, not just react. We build software that acts as a genuine partner to human experts, empowering them to solve some of the world's biggest challenges in agriculture, medicine, and materials science.
+### Mission: Beyond Pattern Recognition
+**ChemEonix** is the independent R&D portfolio of **Travis B. Mitchell, Ph.D.**, created to explore how causal and explainable AI can deepen our understanding of chemistry, materials, and other complex scientific systems.
 
-Our Technology Philosophy
-We are committed to building robust, maintainable, and scalable systems by adhering to modern best practices. This philosophy serves as the technical blueprint for all our future ventures.
+Modern machine learning excels at recognizing correlations—but genuine innovation demands insight into *why* things happen.  
+ChemEonix projects aim to bridge that gap by integrating scientific reasoning with AI and software engineering to reveal the causal mechanisms behind observed data.
 
-Architecture: We employ a component-driven, services-oriented architecture, ensuring a clear separation of concerns between our frontend interfaces and backend logic.
+---
 
-Tech Stack: Our blueprint for full-stack applications is built on Next.js with TypeScript for the frontend and containerized FastAPI services in Python for the backend. We rely on PostgreSQL for data persistence and leverage tools like Docker, GitHub Actions, and Vercel for seamless CI/CD and deployment.
+### Focus Areas
+- **Molecular & Materials Informatics** – data-efficient and explainable ML for small-data chemistry  
+- **Causal & Generative Modeling** – uncovering structure–property relationships  
+- **Scientific Software Systems** – robust, modular tools built with modern full-stack practices  
+- **Applied Research Automation** – connecting theory, computation, and experimentation through software  
 
-Quality & Collaboration: Code quality is paramount. We enforce strict linting and formatting standards and utilize modern development tools like GitHub Copilot, configured with project-specific instructions to ensure consistency and accelerate development.
+---
 
-Our Work
-This organization hosts the source code for all ChemEonix ventures, from our foundational web presence to future R&D projects and commercial applications.
+### Technical Philosophy
+ChemEonix emphasizes maintainability and reproducibility in scientific software:
 
-chemeonix-website: The central hub for our brand, including our visionary landing page and the professional portfolio of our founder, Travis B. Mitchell.
+- **Architecture** – component-driven, service-oriented design separating frontend and backend logic  
+- **Stack** – Next.js (Typescript) frontend; containerized FastAPI (Python) backend; PostgreSQL persistence  
+- **Quality** – linting, type safety, CI/CD (Docker + GitHub Actions + Vercel/Azure) to ensure professional reliability  
 
-(More ventures coming soon...)
+---
+
+### Current Work
+This organization hosts code and experiments developed as part of Travis Mitchell’s independent research, including:
+
+- **chemeonix-website** — portfolio and technical showcase  
+- **molrep-assessor** — open project benchmarking molecular representation quality for AI models  
+- *Additional exploratory tools and datasets forthcoming*
+
+---
 
 <p align="center">
-Copyright © 2025 ChemEonix, LLC. All Rights Reserved.
+  © 2025 Travis B. Mitchell / ChemEonix — Independent R&D Portfolio  
 </p>
